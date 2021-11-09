@@ -1,4 +1,4 @@
 # anagramas
 
 ## Link
-living-anagrama.surge.sh
+https://living-anagrama.surge.sh/
